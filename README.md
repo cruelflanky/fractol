@@ -10,16 +10,6 @@ Note that **macOS is only supported**.
 
 You can check [wiki-pages](../../wiki/) if you want to read detailed explanations and tips. Wiki-pages were written **in Russian**.
 
-## How to clone?
-
-This repository includes submodule. So if you want to clone it, you can use the following command:
-
-```
-git clone --recurse-submodules <repository url>
-```
-
-If you will use `git clone <repository url>` instead of, you will get the empty `libft` folder.
-
 ## Installation
 
 Clone repository and then go into the created directory and run the following command:
