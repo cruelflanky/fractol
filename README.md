@@ -1,12 +1,10 @@
 # Fract'ol
 
-![Fract'ol](/images/fract-ol.svg)
+![Fract'ol](/images/preview.jpeg)
 
 Fract'ol is a School 42 project. The purpose of this project is to create fractal renderer.
 
 Note that **macOS is only supported**.
-
-[`fract_ol.en.pdf`](/fract_ol.en.pdf) is the task file.
 
 ## Wiki
 
